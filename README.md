@@ -1,4 +1,4 @@
-# BeReal Inspired IOS App
+# BeReal Inspired iOS App
 
 A photo-sharing iOS app built with Swift in Xcode. Users can create an account, share a photo with a caption, and view other users' posts after uploading their own. The feed shows up to 10 recent posts from the last day. Older posts are filtered out of the feed. 
 
